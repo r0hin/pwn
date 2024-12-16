@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "dns": "^0.2.2",
+    "fs": "^0.0.1-security",
+    "puppeteer": "^23.10.4",
+    "util": "^0.12.5"
+  }
+}
